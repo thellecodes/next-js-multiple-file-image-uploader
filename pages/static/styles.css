@@ -81,7 +81,7 @@ body {
     padding: 2em;
     cursor: pointer; }
   .upload-cover .upload-bottom {
-    height: 40%;
+    height: 30%;
     width: 100%;
     overflow-y: scroll; }
     .upload-cover .upload-bottom .lists {
@@ -95,3 +95,10 @@ body {
           margin: 0.2em; }
           .upload-cover .upload-bottom .lists .boxes .box img {
             border-radius: 1em; }
+  .upload-cover .send-btn {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    height: 10%; }
+    .upload-cover .send-btn button {
+      background-color: #687ddb !important; }

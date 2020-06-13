@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@webdeb/next-styles": "^1.1.0",
+    "axios": "^0.19.2",
     "bootstrap": "^4.5.0",
     "concurrently": "^5.2.0",
     "formidable-serverless": "^1.0.3",
@@ -23,7 +24,8 @@
     "react-toastify": "^6.0.5",
     "redux": "^4.0.4",
     "redux-devtools-extension": "^2.13.8",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "slugify": "^1.4.0"
   },
   "license": "ISC"
 }
