@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="194" height="177.238" viewBox="0 0 194 177.238">
+  <g id="Group_7" data-name="Group 7" transform="translate(-334 -109.762)">
+    <g id="Group_5" data-name="Group 5" transform="translate(400.316 109.028)">
+      <path id="Path_9" data-name="Path 9" d="M42.71,38.972c-2.659,0-5.341-.028-8,0a1.025,1.025,0,0,1-1-1c.028-1.649.336-1,2-1,4.735,0,9.265.014,14,0,5.2-.014,9.114-4.81,9-10a8.477,8.477,0,0,0-6-8,1.329,1.329,0,0,1-1-1,9.479,9.479,0,0,0-11-8c-1.749.256-3.592-.066-5,1-.427.313-.829.427-1,0-2.19-5.346-7.213-8.071-13-8a13.463,13.463,0,0,0-13,12,9.235,9.235,0,0,0,0,3c.085.469.4.872,0,1a9.887,9.887,0,0,0-7,9,9.02,9.02,0,0,0,9,9c5.076.028,9.924.028,15,0a.888.888,0,0,1,1,1c-.043,1.465.479,1-1,1h-14c-6.768,0-12.455-5.26-12-12,.284-4.237,2.232-7.009,6-9,.412-.213,1-.517,1-1-.014-8.147,5.009-14.55,13-16a15.906,15.906,0,0,1,16,7c.384.6.332.27,1,0,6.981-2.787,15.024,1.72,17,9,.114.441.573-.213,1,0,4.379,2.09,6.583,7.407,6,12-.654,5.161-4.038,9.047-9,10a14.106,14.106,0,0,1-3,0C46.719,38.958,44.7,38.972,42.71,38.972Z" transform="translate(0 0)" fill="#687ddb"/>
+      <path id="Path_10" data-name="Path 10" d="M155.117,149.328c-2.375,2.389-4.81,4.753-7,7-.441.441-.545.5-1,0-1.123-1.209-1.152-.848,0-2,2.858-2.858,5.142-6.114,8-9,.355-.355.573-.427,1,0,3.1,3.142,6.872,6.9,10,10,.341.341.4-.327,0,0-.455.37-1.488,2-2,2s-.588-1.588-1-2c-1.834-1.82-3.18-3.18-5-5l-1-1c-.2.27,0,.758,0,1,0,7.763-.028,16.237,0,24,0,.64-.346.028-1,0-1.479-.043-1,.465-1-1v-23C155.089,150.129,155.117,149.812,155.117,149.328Z" transform="translate(-125.408 -124.356)" fill="#687ddb"/>
+    </g>
+    <text id="Drag_and_drop_files_here" data-name="Drag and drop files here" transform="translate(431 197)" fill="#555a6b" font-size="18" font-family="Lato-Black, Lato" font-weight="800"><tspan x="-96.871" y="0">Drag and drop files here</tspan></text>
+    <text id="or" transform="translate(431 229)" fill="#666" font-size="14" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="-6.549" y="0">or</tspan></text>
+    <g id="Group_6" data-name="Group 6" transform="translate(34 -84)">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="120" height="40" rx="3" transform="translate(337 331)" fill="#687ddb"/>
+      <text id="Browse_files" data-name="Browse files" transform="translate(397 356)" fill="#f5f6fa" font-size="14" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-37.863" y="0">Browse files</tspan></text>
+    </g>
+  </g>
+</svg>
