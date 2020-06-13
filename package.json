@@ -25,7 +25,8 @@
     "redux": "^4.0.4",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
-    "slugify": "^1.4.0"
+    "slugify": "^1.4.0",
+    "uuid": "^8.1.0"
   },
   "license": "ISC"
 }
