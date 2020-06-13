@@ -8,6 +8,6 @@
 
 # After you clone this repo you can simply run
 
-## yarn install
+## yarn install & yarn dev
 
 # to install all the neccessary dependencies.
