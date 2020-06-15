@@ -1,9 +1,13 @@
-"# next-js-multiple-file-image-uploader" 
+"# next-js-multiple-file-image-uploader"
 
-## Design Branch
+### Master Branch
 
-## How to run
+# https://github.com/boltdsg/next-js-multiple-file-image-uploader/tree/master
 
-### After you clone this repo, 
+## Steps to to use, you can actually compare both branches
 
-# Yarn run dev
+# After you clone this repo you can simply run
+
+## yarn install & yarn dev
+
+# to install all the neccessary dependencies.
